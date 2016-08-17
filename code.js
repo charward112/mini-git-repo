@@ -1,4 +1,4 @@
-var person {
+var person = {
   firstName: "Casey",
   lastName: "Harward"
 };
